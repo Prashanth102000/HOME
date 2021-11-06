@@ -1,2 +1,2 @@
-# HOME
-Index Page of House
+#Index Page
+Index Page of House Website
